@@ -3980,7 +3980,7 @@ bcuy 取闹
 bcv 娶
 bcvf 娶
 bcwa 取代
-bcwf 聚会 取舍 联欢会
+bcwf 取值 聚会 取舍 联欢会
 bcwg 聚合 聚敛
 bcwk 取保
 bcwt 陖
@@ -38629,7 +38629,7 @@ nteu 发胖
 ntev 飞毛腿
 ntf 尾 忤
 ntfb 属地 屘
-ntfc 发动 改动 屐
+ntfc 改动 发动 屐
 ntfd 必需
 ntff 尾款 屗 屛
 ntfg 发坏
@@ -52143,7 +52143,7 @@ rwvo 失灵
 rwvr 掰
 rwvt 失群
 rww 挫
-rwwa 抚今追昔
+rwwa 迭代 抚今追昔
 rwwf 失传 挫
 rwwg 推倒 推拿 擒拿 攕
 rwwh 抢修 失修
@@ -56262,7 +56262,7 @@ tdrv 各有所好
 tdrw 物有所值
 tdry 乱搞
 tdsc 私有权
-tdsg 甜酸
+tdsg 适配 甜酸
 tdsh 乱想
 tdsj 稽查
 tdsk 徛
