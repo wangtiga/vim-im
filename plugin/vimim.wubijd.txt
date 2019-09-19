@@ -45448,7 +45448,7 @@ qlfk 锣鼓
 qlfn 锣声
 qlg 钿 鈿
 qlga 多边形
-qlge 鍡 鐶 镮
+qlge 链表 鍡 鐶 镮
 qlgf 链球
 qlgh 鎠
 qlgy 忽略不计
@@ -53705,6 +53705,7 @@ shj 棹
 shjh 棹
 shjm 相遇
 shjs 槕
+shjt 相临
 shke 相吸
 shkg 枮
 shkh 相距
