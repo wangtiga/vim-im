@@ -12342,7 +12342,7 @@ etft 胜者
 etfu 胜境
 etg 胜
 etga 用武 用刑
-etgc 乃至 用到
+etgc 用到 乃至
 etgd 甤
 etgf 用于 胜于 腄 腫
 etgg 胜
