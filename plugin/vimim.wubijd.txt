@@ -14452,7 +14452,7 @@ fiwc 霗
 fiwd 未做
 fiwe 塉
 fiwf 求值
-fiwg 救命 示例 声泪俱下
+fiwg 示例 救命 声泪俱下
 fiwj 求偶
 fiwm 求仙
 fiww 救人 求人 示众
@@ -15193,7 +15193,7 @@ fnna 志异
 fnng 专司
 fnnl 直愣愣
 fnnn 专书
-fnnt 韧性
+fnnt 专属 韧性
 fnny 专心 违心
 fnog 专业
 fnon 专断
@@ -67274,7 +67274,7 @@ wgqg 敛钱
 wgqh 例外
 wgqi 倒锁
 wgqj 例
-wgqk 全名 命名
+wgqk 命名 全名
 wgqn 使馆 盒饭 便饭
 wgqq 合金
 wgqt 傲
@@ -70147,7 +70147,7 @@ wyum 供应商
 wyup 偏旁
 wyuq 依次 集资 仿效
 wyus 令尊
-wyut 停产 俯首 食道
+wyut 信道 停产 俯首 食道
 wyux 令慈
 wyuy 偏门
 wyv 食
