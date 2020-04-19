@@ -373,7 +373,7 @@ adgf 基于 苦于 甚于
 adgg 其一
 adgh 勘正
 adgi 若不
-adgk 惹事
+adgk 基带 惹事
 adgm 若再
 adgo 惹来
 adgq 苦熬
@@ -18817,7 +18817,7 @@ gkbk 副职
 gkbm 带出
 gkbw 带队 整队
 gkca 带劲
-gkce 融通
+gkce 带通 融通
 gkcp 橐驼
 gkda 一哄而散
 gkdd 整套
@@ -57716,7 +57716,7 @@ tjdy 物归原主
 tjeb 馟
 tjen 香肠
 tjeq 香脆
-tjet 利用
+tjet 复用 利用
 tjeu 透明胶
 tjex 香脂
 tjey 微电脑
